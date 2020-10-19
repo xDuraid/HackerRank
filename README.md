@@ -6,5 +6,5 @@
 
 The solutions here may not be the best possible solutions, thus feel free to make suggestions if you see something that can be improved. 
 
-* [Data Structures]https://github.com/xDuraid/HackerRank/tree/main/Data%20Structures)
+* [Data Structures](https://github.com/xDuraid/HackerRank/tree/main/Data%20Structures)
   * [Arrays](https://github.com/xDuraid/HackerRank/tree/main/Data%20Structures/Arrays)
