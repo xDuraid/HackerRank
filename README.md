@@ -8,3 +8,4 @@ The solutions here may not be the best possible solutions, thus feel free to mak
 
 * [Data Structures](https://github.com/xDuraid/HackerRank/tree/main/Data%20Structures)
   * [Arrays](https://github.com/xDuraid/HackerRank/tree/main/Data%20Structures/Arrays)
+  * [Linked Lists](https://github.com/xDuraid/HackerRank/tree/main/Data%20Structures/Linked%20Lists)
