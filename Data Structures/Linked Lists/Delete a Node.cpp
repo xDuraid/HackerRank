@@ -1,3 +1,6 @@
+//Hacker Rank - Data Structure Practice Problem
+//Delete a Node Solution
+
 SinglyLinkedListNode* deleteNode(SinglyLinkedListNode* head, int position) {
         SinglyLinkedListNode* temp1 = head;
         if(position == 0){
