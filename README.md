@@ -15,3 +15,10 @@ The solutions here may not be the best possible solutions, thus feel free to mak
     5. [Sparse Array](https://github.com/xDuraid/HackerRank/blob/main/Data%20Structures/Arrays/Sparse%20Array.cpp)
     6. [Array Manipulation](https://github.com/xDuraid/HackerRank/blob/main/Data%20Structures/Arrays/Array%20Manipulation.cpp)
   * [Linked Lists](https://github.com/xDuraid/HackerRank/tree/main/Data%20Structures/Linked%20Lists)
+    1. [Print the Elements of a Linked List](https://github.com/xDuraid/HackerRank/blob/main/Data%20Structures/Linked%20Lists/Print%20the%20Elements%20of%20a%20Linked%20List.cpp)
+    2. [Insert a Node at the Tail of a Linked List](https://github.com/xDuraid/HackerRank/blob/main/Data%20Structures/Linked%20Lists/Insert%20a%20Node%20at%20the%20Tail%20of%20a%20Linked%20List.cpp)
+    3. [Insert a node at the head of a linked list](https://github.com/xDuraid/HackerRank/blob/main/Data%20Structures/Linked%20Lists/Insert%20a%20node%20at%20the%20head%20of%20a%20linked%20list.cpp)
+    4. [Insert a node at a specific position in a linked list](https://github.com/xDuraid/HackerRank/blob/main/Data%20Structures/Linked%20Lists/Insert%20a%20node%20at%20a%20specific%20position%20in%20a%20linked%20list.cpp)
+    5. [Delete a Node](https://github.com/xDuraid/HackerRank/blob/main/Data%20Structures/Linked%20Lists/Delete%20a%20Node.cpp)
+    6. [Print in Reverse](https://github.com/xDuraid/HackerRank/blob/main/Data%20Structures/Linked%20Lists/Print%20in%20Reverse.cpp)
+    
