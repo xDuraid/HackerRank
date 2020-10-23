@@ -1,6 +1,17 @@
 //Hacker Rank - Data Structure Practice Problem
 //Insert a node at a specific position in a linked list Solution
 
+// Complete the insertNodeAtPosition function below.
+
+/*
+ * For your reference:
+ *
+ * SinglyLinkedListNode {
+ *     int data;
+ *     SinglyLinkedListNode* next;
+ * };
+ *
+ */
 SinglyLinkedListNode* insertNodeAtPosition(SinglyLinkedListNode* head, int data, int position) {
     SinglyLinkedListNode* newNode = new SinglyLinkedListNode(data);
     SinglyLinkedListNode* temp = head;
