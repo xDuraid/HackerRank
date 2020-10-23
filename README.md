@@ -22,7 +22,7 @@ The solutions here may not be the best possible solutions, thus feel free to mak
     1. [Delete a Node](https://github.com/xDuraid/HackerRank/blob/main/Data%20Structures/Linked%20Lists/Delete%20a%20Node.cpp)
     6. [Print in Reverse](https://github.com/xDuraid/HackerRank/blob/main/Data%20Structures/Linked%20Lists/Print%20in%20Reverse.cpp)
     7. [Reverse a linked list](https://github.com/xDuraid/HackerRank/blob/main/Data%20Structures/Linked%20Lists/Reverse%20a%20linked%20list.cpp)
-    8. [Compare two linked lists]()
+    8. [Compare two linked lists](https://github.com/xDuraid/HackerRank/blob/main/Data%20Structures/Linked%20Lists/Compare%20two%20linked%20lists.cpp)
     9. [Merge two sorted linked lists]()
     10. [Get Node Value]()
     11. [Delete duplicate-value nodes from a sorted linked list]()
