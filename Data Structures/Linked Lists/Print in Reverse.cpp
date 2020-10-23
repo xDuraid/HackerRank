@@ -1,6 +1,17 @@
 //Hacker Rank - Data Structure Practice Problem
 //Print in Reverse Solution
 
+// Complete the reversePrint function below.
+
+/*
+ * For your reference:
+ *
+ * SinglyLinkedListNode {
+ *     int data;
+ *     SinglyLinkedListNode* next;
+ * };
+ *
+ */
 void reversePrint(SinglyLinkedListNode* head) {
     if(head == nullptr){
         return;
