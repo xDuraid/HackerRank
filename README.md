@@ -24,7 +24,7 @@ The solutions here may not be the best possible solutions, thus feel free to mak
     7. [Reverse a linked list](https://github.com/xDuraid/HackerRank/blob/main/Data%20Structures/Linked%20Lists/Reverse%20a%20linked%20list.cpp)
     8. [Compare two linked lists](https://github.com/xDuraid/HackerRank/blob/main/Data%20Structures/Linked%20Lists/Compare%20two%20linked%20lists.cpp)
     9. [Merge two sorted linked lists](https://github.com/xDuraid/HackerRank/blob/main/Data%20Structures/Linked%20Lists/Merge%20two%20sorted%20linked%20lists.cpp)
-    10. [Get Node Value]()
+    10. [Get Node Value](https://github.com/xDuraid/HackerRank/blob/main/Data%20Structures/Linked%20Lists/Get%20Node%20Value.cpp)
     11. [Delete duplicate-value nodes from a sorted linked list]()
     12. [Cycle Detection]()
     13. [Find Merge Point of Two Lists]()
