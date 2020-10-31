@@ -26,7 +26,7 @@ The solutions here may not be the best possible solutions, thus feel free to mak
     9. [Merge two sorted linked lists](https://github.com/xDuraid/HackerRank/blob/main/Data%20Structures/Linked%20Lists/Merge%20two%20sorted%20linked%20lists.cpp)
     10. [Get Node Value](https://github.com/xDuraid/HackerRank/blob/main/Data%20Structures/Linked%20Lists/Get%20Node%20Value.cpp)
     11. [Delete duplicate-value nodes from a sorted linked list](https://github.com/xDuraid/HackerRank/blob/main/Data%20Structures/Linked%20Lists/Delete%20duplicate-value%20nodes%20from%20a%20sorted%20linked%20list.cpp)
-    12. [Cycle Detection]()
+    12. [Cycle Detection](https://github.com/xDuraid/HackerRank/blob/main/Data%20Structures/Linked%20Lists/Cycle%20Detection.cpp)
     13. [Find Merge Point of Two Lists]()
     14. [Inserting a Node Into a Sorted Doubly Linked List]()
     15. [Reverse a doubly linked list]()
