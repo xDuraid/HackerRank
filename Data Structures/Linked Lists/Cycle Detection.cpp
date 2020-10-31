@@ -23,3 +23,5 @@ bool has_cycle(SinglyLinkedListNode* head) {
     }
     return false;
 }
+
+//based on Floyd Algorithm
