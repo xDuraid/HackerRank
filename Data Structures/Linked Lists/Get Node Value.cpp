@@ -14,15 +14,14 @@
  *
  */
 int getNode(SinglyLinkedListNode* head, int positionFromTail) {
-    SinglyLinkedListNode* temp = head;
     SinglyLinkedListNode* ans = head;
     
     for (int i = 0; i < positionFromTail; i++) {
-        temp = temp->next;
+        head = head->next;
     }
 
-    while (temp->next != nullptr) {
-        temp = temp->next;
+    while (head->next != nullptr) {
+        head = head->next;
         ans = ans->next;
     }
 
